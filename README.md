@@ -1,4 +1,3 @@
-[![View Half car model on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/106045-half-car-model)
 # Half-car-model
 Simulation and animation of a half car model. 
 
@@ -8,4 +7,4 @@ Watch the animation on YouTube: https://youtu.be/D_xcFNorir4
 
 ## Model
 
-![Model](https://www.dropbox.com/s/zoblonfuyg3j64n/half_car_model_model.png?raw=1)
+![Model](https://www.dropbox.com/scl/fi/z3tj3msgwxyfppzeugq48/half_car_model_model.png?rlkey=hfxiztl95pgu9mwejlubj2w9t&st=gtwwask1&raw=1)
